@@ -1,0 +1,7 @@
+<!--pages/start/start.wxml-->
+
+<view class="b">
+   <image src="/img/1.png" class="c"></image>
+  </view>
+
+<view class='a'>让您的生活更加便利</view>

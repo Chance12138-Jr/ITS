@@ -1,0 +1,29 @@
+{
+  "pages":[
+    "pages/start/start",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/run/run",
+    "pages/equipment/equipment",
+    "pages/all/all",
+    "pages/1/1",
+    "pages/2/2",
+    "pages/3/3",
+    "pages/record/list",
+    "pages/record/record"
+
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "地理位置信息将用于绘制运动轨迹"
+    }
+  },
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#99FFFF",
+    "navigationBarTitleText": "智慧社区",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

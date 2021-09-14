@@ -1,0 +1,8 @@
+<view style='height:250rpx;'></view>
+<view class="title">车库楼层</view>
+<view style='height:100rpx;'></view>
+<button bindtap="1" type='primary'>一层</button>
+<view style='height:100rpx;'></view>
+<button bindtap="2" type='primary'>二层</button>
+<view style='height:100rpx;'></view>
+<button bindtap="3" type='primary'>三层</button>

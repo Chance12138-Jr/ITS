@@ -1,0 +1,15 @@
+  <view style='height:150rpx;'></view>
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 登录 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  <view class="box">
+  <button bindtap="1" class="item" plain>小区跑步</button>
+  <button bindtap="2" class="item" plain>地库泊车</button>
+  <button bindtap="3" class="item" plain>器材使用</button>
+  <button bindtap="freeTell" class="item" plain>器材维修</button>
+</view>
+<view style='height:150rpx;'></view>

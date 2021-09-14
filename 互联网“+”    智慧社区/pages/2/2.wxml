@@ -1,0 +1,21 @@
+<view class="title">请点击车位进行选择</view>
+<view style='height:20rpx;'></view>
+
+<image src='/img/222.jpeg' class="a" bindtap="a"></image>  <image src='/img/333.jpeg' class="c" bindtap="e"></image> 
+<view style='height:30rpx;'></view>
+<image src='/img/222.jpeg' class="a" bindtap="b"></image><image src='/img/333.jpeg' class="c" bindtap="f"></image> 
+<view style='height:30rpx;'></view>
+<image src='/img/222.jpeg' class="a" bindtap="c"></image><image src='/img/333.jpeg' class="c" bindtap="g"></image> 
+<view style='height:30rpx;'></view>
+<image src='/img/222.jpeg' class="a" bindtap="d"></image><image src='/img/333.jpeg' class="c" bindtap="h"></image> 
+<view style='height:30rpx;'></view>
+<image src='/img/55.jpg' class="b" ></image>
+<view style='height:30rpx;'></view>
+<image src='/img/222.jpeg' class="a" bindtap="i"></image><image src='/img/333.jpeg' class="c" bindtap="m"></image> 
+<view style='height:30rpx;'></view>
+<image src='/img/222.jpeg' class="a" bindtap="j"></image><image src='/img/333.jpeg' class="c" bindtap="n"></image> 
+<view style='height:30rpx;'></view>
+<image src='/img/222.jpeg' class="a" bindtap="k"></image><image src='/img/333.jpeg' class="c" bindtap="o"></image> 
+<view style='height:30rpx;'></view>
+<image src='/img/222.jpeg' class="a" bindtap="l"></image><image src='/img/333.jpeg' class="c" bindtap="p"></image> 
+<view style='height:30rpx;'></view>

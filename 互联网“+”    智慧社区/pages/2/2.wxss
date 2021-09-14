@@ -1,0 +1,29 @@
+page{
+  background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.51tietu.net%2Fpic%2F2019-091208%2Fbubmcj04u1ebubmcj04u1e.jpg&refer=http%3A%2F%2Fimg9.51tietu.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1623068060&t=936866820a1f46698bf07cad87cc0bb9"); 
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+}
+.title{
+  text-align: center;
+  margin:20rpx;
+  font-size: 50rpx;
+}
+.a{
+  height: 80rpx;
+  width: 300rpx;
+  left: 10rpx;
+  margin-right: 53.9rpx;
+  margin-left: 25rpx;
+}
+.b{
+  height: 60rpx;
+  width: 750rpx;
+  left: 10rpx;
+}
+.c{
+  height: 80rpx;
+  width: 300rpx;
+  left: 10rpx;
+  margin-left: 45rpx;
+}
